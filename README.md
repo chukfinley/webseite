@@ -1,3 +1,3 @@
 # Website
 Just a website for a school
-Page: chukfinley.github.io/webseite
+Page: https://chukfinley.github.io/webseite
